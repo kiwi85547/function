@@ -37,7 +37,7 @@ public class OAuth2FailureHandler extends SimpleUrlAuthenticationFailureHandler 
                             String regEx = "(\\d{3})(\\d{4})(\\d{4})";
                             phoneNumber = user.getPhoneNumber().replaceAll(regEx, "$1-$2-$3");
                         }
-                        String redirectUrl = String.format("http://localhost:5173/signup?email=%s&nickName=%s&phoneNumber=%s",
+                        String redirectUrl = String.format("http://54.180.116.92:8080/signup?email=%s&nickName=%s&phoneNumber=%s",
                                 URLEncoder.encode(email, "UTF-8"), URLEncoder.encode(nickName, "UTF-8"), URLEncoder.encode(phoneNumber, "UTF-8"));
                         response.sendRedirect(redirectUrl);
                         return;

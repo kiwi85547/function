@@ -15,7 +15,7 @@ import java.io.IOException;
 @Component
 public class OAuth2SuccessHandler implements AuthenticationSuccessHandler {
     private final TokenProvider tokenProvider;
-    private static final String URI = "http://localhost:5173/user/auth/success";
+    private static final String URI = "http://54.180.116.92:8080/user/auth/success";
 
     @Override
     public void onAuthenticationSuccess(HttpServletRequest request, HttpServletResponse response, Authentication authentication) throws IOException, ServletException {
