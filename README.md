@@ -89,14 +89,14 @@ Jeong Yun Heo
 
 ## 문의 게시판
 
-![FAQ_gif.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/8aa28815-39b1-4ecf-b353-6776649b838c/4d9d8af5-bcbf-40ad-b785-92a13e1ffad3/FAQ_gif.gif)
+[FAQ_gif.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/8aa28815-39b1-4ecf-b353-6776649b838c/4d9d8af5-bcbf-40ad-b785-92a13e1ffad3/FAQ_gif.gif)
 
 - FAQ (자주 하는 질문)
     - 자주 묻는 질문들이 카테고리별로 정리되어 있습니다.
     - 질문을 클릭하면 답변이 나타나며, 여러 개의 답변을 한번에 볼 수 있습니다.
     - ‘맨 위로’ 버튼을 누르면 화면이 맨 위로 스크롤 됩니다.
 
-![사진확대,비밀글,이전글다음글.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/8aa28815-39b1-4ecf-b353-6776649b838c/51d49f18-f11d-4ef2-9f11-74308a213fa7/%EC%82%AC%EC%A7%84%ED%99%95%EB%8C%80%EB%B9%84%EB%B0%80%EA%B8%80%EC%9D%B4%EC%A0%84%EA%B8%80%EB%8B%A4%EC%9D%8C%EA%B8%80.gif)
+[사진확대,비밀글,이전글다음글.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/8aa28815-39b1-4ecf-b353-6776649b838c/51d49f18-f11d-4ef2-9f11-74308a213fa7/%EC%82%AC%EC%A7%84%ED%99%95%EB%8C%80%EB%B9%84%EB%B0%80%EA%B8%80%EC%9D%B4%EC%A0%84%EA%B8%80%EB%8B%A4%EC%9D%8C%EA%B8%80.gif)
 
 - 1:1 문의게시판
     - 비밀글을 작성할 수 있고, 본인이 쓴 비밀글만 읽을 수 있습니다.
