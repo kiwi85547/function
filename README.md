@@ -88,8 +88,7 @@ Jeong Yun Heo
 ## 채팅
 
 ## 문의 게시판
-
-[FAQ_gif.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/8aa28815-39b1-4ecf-b353-6776649b838c/4d9d8af5-bcbf-40ad-b785-92a13e1ffad3/FAQ_gif.gif)
+![FAQ_gif](https://github.com/kiwi85547/function/assets/158826769/46240ab1-42c5-4104-99e4-aac3ef8100e3)
 
 - FAQ (자주 하는 질문)
     - 자주 묻는 질문들이 카테고리별로 정리되어 있습니다.
