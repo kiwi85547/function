@@ -182,6 +182,9 @@ public class QuestionService {
 
     public boolean hasAccess(Integer id, Authentication authentication) {
         Question question = mapper.selectById(id);
+        if (question == null || authentication == null) {
+            return false;
+        }
         return question.getUserId().equals(Integer.valueOf(authentication.getName()));
     }
 

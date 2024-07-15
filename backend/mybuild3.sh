@@ -7,3 +7,5 @@ ssh -i src/main/resources/secret/key0527.pem ubuntu@54.180.116.92 'docker rm fun
 ssh -i src/main/resources/secret/key0527.pem ubuntu@54.180.116.92 'docker pull joid1004058/function'
 # 컨테이너 실행
 ssh -i src/main/resources/secret/key0527.pem ubuntu@54.180.116.92 'docker run -d -p 8080:8080 --restart always --name function joid1004058/function'
+# 필요없는 이미지 삭제
+ssh -i src/main/resources/secret/key0527.pem ubuntu@54.180.116.92 'docker image prune -f'

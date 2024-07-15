@@ -272,18 +272,20 @@ export function QuestionView() {
           >
             글 목록
           </Button>
-          <Button
-            colorScheme={"teal"}
-            w={"100px"}
-            variant={"outline"}
-            borderRadius={"unset"}
-            onClick={() => {
-              navigate("/question/write");
-              window.scrollTo({ top: 160, behavior: "auto" });
-            }}
-          >
-            글쓰기
-          </Button>
+          {account.hasAccess(question.userId) && (
+            <Button
+              colorScheme={"teal"}
+              w={"100px"}
+              variant={"outline"}
+              borderRadius={"unset"}
+              onClick={() => {
+                navigate("/question/write");
+                window.scrollTo({ top: 160, behavior: "auto" });
+              }}
+            >
+              글쓰기
+            </Button>
+          )}
         </Flex>
       </Box>
 

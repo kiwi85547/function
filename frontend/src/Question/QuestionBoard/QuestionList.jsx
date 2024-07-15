@@ -80,6 +80,7 @@ export function QuestionList() {
   }
 
   function handleParamClick() {
+    window.scrollTo({ top: 240 });
     navigate(`/question/list?type=${searchType}&keyword=${searchKeyword}`);
   }
 
