@@ -46,6 +46,7 @@ Jeong Yun Heo
 
 ## **⭐️ 주요 기능**
 
+
 ## 회원가입 및 로그인
 
 ![email_signup](https://github.com/user-attachments/assets/1d5381a1-b0b2-48c3-9a6b-ef34ab5cdd9b)
@@ -66,6 +67,8 @@ Jeong Yun Heo
     - 발급된 JWT 토큰은 LocalStorage에 저장되어 axios 요청이 발생할 때마다 서버에 전달됩니다
     - JWT 토큰의 정보를 Context에 저장하여 사용자 정보를 애플리케이션 전역에서 사용합니다.
 
+
+
 ## 상품 경매
 
 ![상품](https://github.com/user-attachments/assets/ec9e263c-5f3d-42df-999f-caaa8866ef97)
@@ -84,6 +87,8 @@ Jeong Yun Heo
     - 경매 참여 후 낙찰 여부는 마이 페이지 입찰내역에서 볼 수 있습니다.
     - **낙찰 성공** :  `낙찰 성공` 벳지로 알려주고 거래하기 버튼을 클릭하면 판매자와의 채팅으로 이어집니다.
     - **낙찰 실패**  : `낙찰 실패` 벳지로 알려줍니다.
+
+
 
 ## 채팅
 
@@ -108,11 +113,14 @@ Jeong Yun Heo
     - 닉네임 클릭 시 닉네임 페이지로 이동
   - 채팅방 나가기 클릭 시 메인 화면으로 이동 및 STOMP 비활성화
     - 한 명만 나가기 버튼을 누르면 다른 사용자는 채팅방 유지, 두 명 모두 나가기를 하면 메세지&채팅방 삭제
-
+    
+![후기](https://github.com/user-attachments/assets/2b3d3e26-f41f-4891-926d-3f3826c153e0)
 - **후기**
   - 결제까지 완료한 입찰자는 후기 등록 가능
   - 본인이 작성한 후기 조회 가능
   - 결제 완료한 구매자(입찰자)가 보낸 후기 조회 가능
+
+
 
 ## 문의 게시판
 ![FAQ_gif](https://github.com/kiwi85547/function/assets/158826769/46240ab1-42c5-4104-99e4-aac3ef8100e3)
@@ -130,6 +138,8 @@ Jeong Yun Heo
     - 첨부한 사진을 크게 확대하여 볼 수 있습니다.
     - 이전글, 다음글 버튼을 통해 다음글을 확인할 수 있습니다.
 
+
+
 ## 자유 게시판 댓글
 
 ![게시판](https://github.com/user-attachments/assets/3bef2ab5-4e48-4a6f-a243-87eb1c9795bb)
@@ -143,6 +153,8 @@ Jeong Yun Heo
     - 메뉴를 클릭하면 수정 및 삭제가 가능합니다.
     - 취소 버튼을 누르면 답글 창이 닫힙니다.
     - 프로필 사진을 클릭하면 상점으로 이동합니다.
+
+
 
 # **📆 서비스 개발 개요**
 
@@ -197,8 +209,5 @@ Jeong Yun Heo
 - React 18.2.0
 - Docker 26.1.1
 
-**🌐 Server Description**
-
-- 
-
 ## 🎞 최종산출물
+[발표 자료 및 영상](https://www.canva.com/design/DAGJrEM9uQg/YjMCcJizEJdqjEsQd_eRWA/view?utm_content=DAGJrEM9uQg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
